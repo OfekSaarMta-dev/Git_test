@@ -9,6 +9,8 @@ int main()
     std::cout << "hello";
     std::cout << "hello\n";
     std::cout << "Shiran wtf";
+    std::cout << "Shiran wtf";
+
     
 }
 
