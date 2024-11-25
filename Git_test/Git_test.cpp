@@ -11,6 +11,7 @@ int main()
     std::cout << "Shiran wtf";
     std::cout << "Shiran wtf";
     std::cout << "happy birthday victor";
+    std::cout << "MAZAL TOVVVVVV";
 
     
 }
